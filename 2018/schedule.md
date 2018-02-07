@@ -1,6 +1,6 @@
 2018计划读书分享
 
-1.[metaprogramming Ruby2](https://book.douban.com/subject/25845930/)
+1. [x] 1. [metaprogramming Ruby2](https://book.douban.com/subject/25845930/)
 
 2.[期货市场技术分析-墨菲](https://book.douban.com/subject/1089991/)
 
